@@ -1,0 +1,48 @@
+body {
+  display: grid;
+  grid-template-columns: 75vw 25vw;
+  }
+  
+aside {
+  display: flex;
+  flex-direction: column;
+}
+
+aside > .top {
+
+}
+aside > .bottom {
+
+}
+
+
+  header,
+  footer {
+  
+  }
+  
+
+  pre {
+ 
+  }
+  
+  code {
+
+  }
+
+  header,
+  main,
+  aside,
+  footer {
+    background: #eaeaea;
+
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  .hilight{
+    display: inline-block;
+    background-color: lightgoldenrodyellow;
+  }
